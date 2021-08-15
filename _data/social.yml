@@ -18,11 +18,11 @@ stack_overflow:
 stack_exchange:
 steam:
 tumblr:
-twitter:
+twitter: TaermusGaming
 vimeo:
 wordpress:
-youtube: # Youtube channel token like: UCqECaJ8Gagnn7YCbPEzWH6g
-twitch: sirrandoo
+youtube: UC36ooOcQVJGOAsKGSEZtRdQ # Youtube channel token like: UCqECaJ8Gagnn7YCbPEzWH6g
+twitch: taermus
 
 # Share button options
 share:
@@ -34,4 +34,4 @@ share:
   reddit: true
   linkedin:
   wordpress:
-  email: true
+  email: false
