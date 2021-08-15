@@ -1,7 +1,7 @@
 u# Metadata
-title: "Taermus's Purchase List"
+title: "Taermus' purchase list"
 favicon: assets/img/favicon.png
-description: "Taermus' Rimworld Purchase list for the twitch mod."
+description: "Taermus' Rimworld purchase list for the twitch mod."
 
 baseurl: '/itemlist' # the subpath of your site, e.g. /blog
 url: '' # the base hostname & protocol for your site, e.g. http://example.com
